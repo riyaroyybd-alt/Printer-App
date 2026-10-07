@@ -23,4 +23,12 @@ public class Main {
         division = (double) number1 / number2;
         subtraction = number1 - number2;
 
+        // Results
+        System.out.println(number1 + " * " + number2 + " = " + multiplication);
+        System.out.println(number1 + " + " + number2 + " = " + addition);
+        System.out.println(number1 + " / " + number2 + " = " + division);
+        System.out.println(number1 + " - " + number2 + " = " + subtraction);
+    }
+}
+
 
